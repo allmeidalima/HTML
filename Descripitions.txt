@@ -1,0 +1,42 @@
+O que é um elemento HTML?
+
+Um elemento HTML é definido por uma tag inicial, algum conteúdo e uma tag final:
+
+< tagname > O conteúdo vai aqui... < /tagname >
+O elemento HTML é tudo, desde a tag inicial até a tag final:
+
+< h1 > Meu primeiro título < /h1 >
+< p > Meu primeiro parágrafo. < /p >
+
+Start tag	          Element content	           End tag
+<h1>	              My First Heading	           </h1>
+<p>	                  My first paragraph.	       </p>
+<br>	              none	                       none
+
+-------------------------------------------------------------------------------------------------------------
+
+Exemplo explicado
+
+A <!DOCTYPE html> declaração define que este documento é um documento HTML5
+O <html> elemento é o elemento raiz de uma página HTML
+O <head> elemento contém informações meta sobre a página HTML
+O <title> elemento especifica um título para a página HTML (que é mostrado na barra de título do navegador ou na guia da página)
+O <body> elemento define o corpo do documento e é um recipiente para todos os conteúdos visíveis, como títulos, parágrafos, imagens, hiperlinks, tabelas, listas, etc.
+O <h1> elemento define um título grande
+O <p> elemento define um parágrafo
+O hrefatributo de <a> especifica o URL da página para a qual o link vai
+O srcatributo de <img> especifica o caminho para a imagem a ser exibida
+Os atributos widthe fornecem informações de tamanho para imagensheight<img>
+O altatributo of <img> fornece um texto alternativo para uma imagem
+O styleatributo é usado para adicionar estilos a um elemento, como cor, fonte, tamanho e mais
+O langatributo da <html> tag declara o idioma da página da Web
+O titleatributo define algumas informações extras sobre um elemento
+
+
+Os links HTML são definidos com a <a>
+As imagens HTML são definidas com a <img>tag.
+O arquivo de origem (src), o texto alternativo (alt), widthe heightsão fornecidos como atributos
+O style atributo é usado para adicionar estilos a um elemento, como cor, fonte, tamanho e muito mais.
+Exemplo
+<p style="color:red;">This is a red paragraph.</p>
+
